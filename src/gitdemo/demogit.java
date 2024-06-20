@@ -6,9 +6,9 @@ public class demogit {
 		// TODO Auto-generated method stub
 		String hungry = "yes";
 		if(hungry == "yes")
-			System.out.Println("eat somthin...");
+			System.out.println("eat somthin...");
 		else {
-			System.out.Println("do work...");
+			System.out.println("do work...");
 		}
 	}
 
